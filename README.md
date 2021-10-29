@@ -1,6 +1,6 @@
 # Mitte Online Chat
 
-Mitte Online Chat 
+Mitte Online Chat - simple chat manager for free communication.
  
 ## How to run?
 
